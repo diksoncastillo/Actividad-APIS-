@@ -5,7 +5,13 @@ Este proyecto es una API RESTful para la gestión de tareas construida con Flask
 Usé un .venv llamado env.venv, es recomendable usar un ambiente virtual personalizado.
 
 ---
+## Grupo de Trabajo
 
+| Nombre Completo                 |    Código    |       
+|---------------------------------|--------------|
+| Dikson Javier Castillo Triviño  | 20232020115  |
+
+---
 ## Estructura del Proyecto
 
 ```
