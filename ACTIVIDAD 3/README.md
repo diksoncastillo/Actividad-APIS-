@@ -2,6 +2,8 @@
 
 Este proyecto es una API RESTful para la gestión de tareas construida con Flask, SQLAlchemy y PostgreSQL. Permite crear, consultar, actualizar, eliminar, buscar y filtrar tareas, ademas de que es necesario tener instalado Postman para poder usar el programa de manera local. 
 
+Usé un .venv llamado env.venv, es recomendable usar un ambiente virtual personalizado.
+
 ---
 
 ## Estructura del Proyecto
