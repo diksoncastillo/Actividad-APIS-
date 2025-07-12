@@ -78,11 +78,11 @@ Puedes probar cada ruta de la API usando Postman:
 
 ### 3. Obtener tarea por ID
 - Método: `GET`
-- URL: `http://localhost:5000/tareas/1`
+- URL: `http://localhost:5000/tareas/ID`
 
 ### 4. Actualizar tarea
 - Método: `PUT`
-- URL: `http://localhost:5000/tareas/1`
+- URL: `http://localhost:5000/tareas/ID`
 - Body (JSON):
   ```json
   {
@@ -93,7 +93,7 @@ Puedes probar cada ruta de la API usando Postman:
 
 ### 5. Eliminar tarea
 - Método: `DELETE`
-- URL: `http://localhost:5000/tareas/1`
+- URL: `http://localhost:5000/tareas/ID`
 
 ### 6. Ver tareas completadas
 - Método: `GET`
